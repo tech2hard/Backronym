@@ -1,0 +1,33 @@
+Please find samples below to check backronym program,
+
+Test Case 1:
+Language: English
+Type of Backronym: Technology 
+Input Acronym: Google
+Input Details: Google is global Technology giant 
+
+
+Test Case 2:
+Language: English
+Type of Backronym: Funny 
+Input Acronym: ASAP
+Input Details: Make it Funny
+
+
+Test Case 3:
+Language: English
+Type of Backronym: Clothing
+Input Acronym: IZOD
+Input Details: izod is clothing brand 
+
+Test Case 4:
+Language: Hindi
+Type of Backronym: Clothing
+Input Acronym: FOMO
+Input Details: FOMO is clothing brand 
+
+Test Case 5:
+Language: Hindi
+Type of Backronym: Food
+Input Acronym: TACO
+Input Details: TACO is food item
