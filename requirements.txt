@@ -1,2 +1,4 @@
 gradio
 google.generativeai
+
+#GOOGLE_API_KEY="AIzaSyAk3S_OxhptmqLa1dfVY5RdJIGo1sZjZrI"
